@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [LocalSend-1.17.0-linux-x86-64](./LocalSend-1.17.0-linux-x86-64)
 - [LocalSend-1.17.0-windows-x86-64](./LocalSend-1.17.0-windows-x86-64)
 - [code_1.119.0-1778006717_amd64](./code_1.119.0-1778006717_amd64)
 - [composer](./composer)
